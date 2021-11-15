@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielLaminas
 - 👀 I’m interested in UI Design and Front End.
-- 🌱 I’m currently learning javaScript, css3 and html5.
+- 🌱 I’m currently learning JavaScript, CSS3 and HTML5.
 - 📫 How to reach me laminas533@gmail.com
 
 <!---
