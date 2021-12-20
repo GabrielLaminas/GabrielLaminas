@@ -17,20 +17,20 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GabrielLaminas&show_icons=true&theme=vision-friendly-dark" alt="gabrielLaminas's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLaminas&layout=compact&theme=vision-friendly-dark" alt="gabrielLaminas's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=GabrielLaminas&show_icons=true&theme=vision-friendly-dark" alt="gabrielLaminas's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLaminas&layout=compact&theme=vision-friendly-dark" alt="gabrielLaminas's most languages"/>
 </p>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/your-work" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GabrielLaminas-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://www.linkedin.com/in/gabriel-de-freitas-laminas-1505661b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-de-freitas-laminas-1505661b9/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GabrielLaminas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.frontendmentor.io/profile/GabrielLaminas" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-GabrielLaminas-05122A?style=flat&logo=frontendmentor" alt="frontendmentor"/>
-</a>
+  </a>
+  <a href="https://codepen.io/your-work" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-GabrielLaminas-05122A?style=flat&logo=codepen" alt="codepen"/>
+  </a>
+  <a href="https://www.frontendmentor.io/profile/GabrielLaminas" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-GabrielLaminas-05122A?style=flat&logo=frontendmentor" alt="frontendmentor"/>
+  </a>
 </p>
