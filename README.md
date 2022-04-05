@@ -7,6 +7,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=FF69B4)&nbsp;
