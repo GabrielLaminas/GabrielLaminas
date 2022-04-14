@@ -1,8 +1,8 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I’m @GabrielLaminas</h1>
 
 - 👀 I’m interested in UI Design and Front End.
-- 🌱 I’m currently learning JavaScript, CSS3, SASS and HTML5.
-- 📫 How to reach me laminas533@gmail.com
+- 🌱 I’m currently learning JavaScript, ReactJS, CSS3, SASS, and HTML5.
+- 📫 How to reach me laminas533@gmail.com or https://www.linkedin.com/in/gabriel-de-freitas-laminas-1505661b9/
 
 ## 🛠 &nbsp;Tech Stack
 
