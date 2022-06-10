@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I’m @GabrielLaminas</h1>
+<h1>Hi, I’m @GabrielLaminas</h1>
 
 - 👀 I’m interested in UI Design and Front End.
 - 🌱 I’m currently learning JavaScript, ReactJS, CSS3, SASS, and HTML5.
