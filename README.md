@@ -1,7 +1,7 @@
 <h1>Hi, I’m @GabrielLaminas</h1>
 
-- 👀 I’m interested in UI Design and Front End.
-- 🌱 I’m currently learning JavaScript, ReactJS, CSS3, SASS, and HTML5.
+- 👀 I’m interested in Front End, Mobile and UI Design.
+- 🌱 I’m currently learning JavaScript, ReactJS, React Native, CSS3, SASS, and HTML5.
 - 📫 How to reach me laminas533@gmail.com 
 
 ## 🛠 &nbsp;Tech Stack
